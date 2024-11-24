@@ -1,1 +1,1 @@
-email
+person = {"name":"john", "age": 23}
