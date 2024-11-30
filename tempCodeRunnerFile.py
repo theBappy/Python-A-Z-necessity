@@ -1,1 +1,1 @@
-person = {"name":"john", "age": 23}
+display_info('Hank', 30)

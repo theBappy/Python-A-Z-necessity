@@ -1,0 +1,1 @@
+ # self.email = first + '.' + last + '@company.com'
