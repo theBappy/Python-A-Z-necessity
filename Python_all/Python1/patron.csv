@@ -1,0 +1,29 @@
+FirstName,LastName,Email,Pledge,Lifetime,Status,Country,Start
+1 + Reward	Description I will add your name to the contributors page on my website. 
+
+You will also be eligible for Patreon-only rewards. I will occasionally give away books that I have read, and will choose a Patron at random to receive those.						
+John,Doe,johndoe@bogusemail.com,10.00,20.00,Ok	,2017-05-06 21:28:06.183108
+Dave,Smith,davesmith@bogusemail.com	5.00,10.00,Ok	,2017-05-29 16:13:58.318920
+Mary,Jacobs,maryjacobs@bogusemail.com,5.00,10.00,Ok,2017-05-14 07:37:01.074648
+Jane,Stuart,janestuart@bogusemail.com,5.00,25.00,Ok,2016-12-30 18:12:13
+Tom,Wright,tomwright@bogusemail.com	5.00,15.00,Ok,2017-04-14 04:02:06.658439
+Steve,Robinson,steverobinson@bogusemail.com	5.00,20.00,Ok,2017-03-17 02:20:14
+Nicole,Jacobs,nicolejacobs@bogusemail.com,5.00	20.00,Ok,2017-03-12 17:07:29
+Jane,Wright,janewright@bogusemail.com,5.00,25.00,2017-01-14 17:40:06
+Jane,Stuart,janestuart@bogusemail.com,5.00,25.00,Ok,2016-12-30 18:12:13
+Tom,Wright,tomwright@bogusemail.com	5.00,15.00,Ok,2017-04-14 04:02:06.658439
+Steve,Robinson,steverobinson@bogusemail.com	5.00,20.00,Ok,2017-03-17 02:20:14
+Nicole,Jacobs,nicolejacobs@bogusemail.com,5.00	20.00,Ok,2017-03-12 17:07:29
+Jane,Wright,janewright@bogusemail.com,5.00,25.00,2017-01-14 17:40:06
+No Reward	Description: (None for No Reward)						
+Mary,Wilks,marywilks@bogusemail.com,20.00,60.00,Ok	,2017-04-21 02:44:43.395224
+Neil,Patterson,neilpatterson@bogusemail.com,10.00,80.00,Ok	,2016-11-12 17:49:37
+Corey,Davis,coreydavis@bogusemail.com,6.00,90.00,Ok	,2016-04-01 15:19:52
+Steve,Jacobs,stevejacobs@bogusemail.com,5.00,21.00,Ok,2017-01-04 19:38:44
+Jane,Jenkins,janejenkins@bogusemail.com,5.00,30.00,Ok,2017-01-15 17:24:39
+John,Jacobs	,ohnjacobs@bogusemail.com,3.14	34.54,Ok,2016-08-23 16:09:25
+Neil,Smith,neilsmith@bogusemail.com,3.00,24.00,Ok,2016-11-28 02:57:48
+Corey,Wilks,coreywilks@bogusemail.com,2.00,8.00,Ok,2017-03-26 20:13:08.207869
+Corey,Smith,coreysmith@bogusemail.com,1.00,0.00,Ok,2017-07-05 01:50:35.171076
+Travis,Arnold
+

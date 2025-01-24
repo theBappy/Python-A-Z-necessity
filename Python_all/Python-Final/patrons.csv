@@ -1,0 +1,40 @@
+FirstName,LastName,Email,Pledge,Lifetime,Status,Country,Start
+1 + Reward, "Desctiption I will add your name to the contributors page on my website"
+
+YOu will also be elegible for patron-only rewards. I will occasionaly give away books to the randoms",,,,,,
+John,Doe,john.doe@example.com,100,500,Active,USA,2023-01-01
+Jane,Smith,jane.smith@example.com,150,600,Active,Canada,2023-01-02
+Alice,Brown,alice.brown@example.com,200,700,Inactive,UK,2023-01-03
+Bob,Johnson,bob.johnson@example.com,250,800,Active,Australia,2023-01-04
+Charlie,Wilson,charlie.wilson@example.com,300,900,Active,USA,2023-01-05
+Diana,Moore,diana.moore@example.com,350,1000,Inactive,Canada,2023-01-06
+Ethan,Taylor,ethan.taylor@example.com,400,1100,Active,UK,2023-01-07
+Fiona,Anderson,fiona.anderson@example.com,450,1200,Active,Australia,2023-01-08
+George,Thomas,george.thomas@example.com,500,1300,Inactive,USA,2023-01-09
+Hannah,Jackson,hannah.jackson@example.com,550,1400,Active,Canada,2023-01-10
+Ian,White,ian.white@example.com,600,1500,Active,UK,2023-01-11
+Julia,Harris,julia.harris@example.com,650,1600,Inactive,Australia,2023-01-12
+Kevin,Martin,kevin.martin@example.com,700,1700,Active,USA,2023-01-13
+Laura,Thompson,laura.thompson@example.com,750,1800,Active,Canada,2023-01-14
+Mike,Garcia,mike.garcia@example.com,800,1900,Inactive,UK,2023-01-15
+Nina,Martinez,nina.martinez@example.com,850,2000,Active,Australia,2023-01-16
+Oscar,Robinson,oscar.robinson@example.com,900,2100,Active,USA,2023-01-17
+Paula,Clark,paula.clark@example.com,950,2200,Inactive,Canada,2023-01-18
+Quinn,Walker,quinn.walker@example.com,1000,2300,Active,UK,2023-01-19
+Ryan,Hall,ryan.hall@example.com,1050,2400,Active,Australia,2023-01-20
+Sophie,Allen,sophie.allen@example.com,1100,2500,Inactive,USA,2023-01-21
+Tom,Young,tom.young@example.com,1150,2600,Active,Canada,2023-01-22
+Uma,Hernandez,uma.hernandez@example.com,1200,2700,Active,UK,2023-01-23
+Victor,King,victor.king@example.com,1250,2800,Inactive,Australia,2023-01-24
+Wendy,Wright,wendy.wright@example.com,1300,2900,Active,USA,2023-01-25
+Xander,Scott,xander.scott@example.com,1350,3000,Active,Canada,2023-01-26
+Yara,Green,yara.green@example.com,1400,3100,Inactive,UK,2023-01-27
+Zachary,Adams,zachary.adams@example.com,1450,3200,Active,Australia,2023-01-28
+Anna,Baker,anna.baker@example.com,1500,3300,Active,USA,2023-01-29
+Brian,Nelson,brian.nelson@example.com,1550,3400,Inactive,Canada,2023-01-30
+No Reward,Desctiption:(None for no reward),,,,,
+Cathy,Carter,cathy.carter@example.com,1600,3500,Active,UK,2023-01-31
+David,Mitchell,david.mitchell@example.com,1650,3600,Active,Australia,2023-02-01
+Eva,Perez,eva.perez@example.com,1700,3700,Inactive,USA,2023-02-02
+Frank,Roberts,frank.roberts@example.com,1750,3800,Active,Canada,2023-02-03
+Grace,Turner,grace.turner@example.com,

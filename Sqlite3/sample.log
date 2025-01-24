@@ -1,0 +1,27 @@
+INFO:employee1:Created Employee: John Smith - John.Smith@email.com
+INFO:employee1:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee1:Created Employee: Maria Williamson - Maria.Williamson@email.com
+2025-01-13 19:00:50,180:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:\Users\User\Desktop\Python (Phitron-FB)\Sqlite3\log-sample.py", line 38, in divide
+    result = x / y
+             ~~^~~
+ZeroDivisionError: division by zero
+INFO:employee1:Created Employee: John Smith - John.Smith@email.com
+INFO:employee1:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee1:Created Employee: Maria Williamson - Maria.Williamson@email.com
+2025-01-13 19:03:49,771:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:\Users\User\Desktop\Python (Phitron-FB)\Sqlite3\log-sample.py", line 40, in divide
+    result = x / y
+             ~~^~~
+ZeroDivisionError: division by zero
+INFO:employee1:Created Employee: John Smith - John.Smith@email.com
+INFO:employee1:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee1:Created Employee: Maria Williamson - Maria.Williamson@email.com
+2025-01-13 19:04:34,353:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:\Users\User\Desktop\Python (Phitron-FB)\Sqlite3\log-sample.py", line 40, in divide
+    result = x / y
+             ~~^~~
+ZeroDivisionError: division by zero
